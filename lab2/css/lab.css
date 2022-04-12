@@ -1,0 +1,17 @@
+h1 {
+  color: #013220;
+  font size: 200%;
+}
+p {
+  font-family: cursive;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+#content{
+  background-color: #87ae73;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #644624;
+  font-size: 20px;
