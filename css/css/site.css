@@ -1,0 +1,18 @@
+body{
+  margin: 20px;
+  background-color: #9baf8e
+  font-size:120%
+}
+
+#content, #menu {
+  margin 10px;
+  padding:20px;
+  border: 1px solid white
+  background-color: #b06660
+}
+
+#content h1,
+#menu h2 {
+  margin-top: 2px;
+  margin-bottom: 0;
+}
