@@ -1,0 +1,36 @@
+h1 {
+  font-family: cursive;
+  color: #a26360;
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: fantasy;
+  color: #845a4b;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+p {
+  color: #756763;
+  font-family: fantasy;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+div{
+  color: #756763;
+  font-family: fantasy;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#content{
+  background-color: #f0d8cc;
+  width: 1220px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #644624;
+  font-size: 20px;
