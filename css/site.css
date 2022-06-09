@@ -1,23 +1,38 @@
 h1 {
-  color: #a88e7a;
-  font size: 200%;
+  font-family: impact;
+  color: #6d9384;
+  font-size: 50px;
 }
+
 h2 {
-  color: #a88e7a;
+  font-family: impact;
+  color: #6d9384;
+  font-size: 30px;
 }
-h3 {
-  color: #a88e7a;
-}
+
 p {
-  font-family: spectral;
-  color: #684536;
+  color: #80635D;
+  font-family: fantasy;
   text-indent: 20px;
   margin-left: 10px;
 }
 
+img {
+  width: 600px;
+  float: right;
+  margin-right: 225px;
+  margin-top: 20px;
+  border: solid 7px #6d9384;
+}
+
+div{
+  font-family: fantasy;
+  text-indent: 20px;
+  margin-left: 10px;
+}
 
 #content{
-  background-color: #9dba94;
+  background-color: #c6d5cc;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
