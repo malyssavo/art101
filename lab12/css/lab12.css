@@ -1,0 +1,28 @@
+h1 {
+  font-family: cursive;
+  color: #42374F;
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: cursive;
+  color: #42374F;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+p {
+  color: #497180;
+  font-family: cursive;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+
+#content{
+  background-color: #9D5369;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #644624;
+  font-size: 20px;
