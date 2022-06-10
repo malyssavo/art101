@@ -1,0 +1,28 @@
+h1 {
+  font-family: impact;
+  color: #694C5D;
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: Luminari;
+  color: #6FA694;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+p {
+  color: #627354;
+  font-family: monaco;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+
+#content{
+  background-color: #DEDFA9;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #644624;
+  font-size: 20px;
